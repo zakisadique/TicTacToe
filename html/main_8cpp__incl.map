@@ -1,0 +1,18 @@
+<map id="myCode/main.cpp" name="myCode/main.cpp">
+<area shape="rect" id="Node000001" title="Main program file for the Gaming Portal application." alt="" coords="74,5,200,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="44,80,115,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,34,101,69,97,66,125,31"/>
+<area shape="rect" id="Node000003" href="$GamingPortal_8h.html" title="Header file for the GamingPortal class." alt="" coords="140,80,251,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,31,178,66,174,69,145,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,155,61,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,110,76,151,74,146,166,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="85,155,138,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="183,109,139,146,136,142,179,105"/>
+<area shape="rect" id="Node000006" href="$Game_8h.html" title="Header file for the abstract Game class. The Game class serves as the base class for specific game im..." alt="" coords="162,155,229,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="198,107,198,139,193,139,193,107"/>
+<area shape="rect" id="Node000007" href="$Game__t_8h.html" title="An enumeration representing different types of games." alt="" coords="191,229,270,256"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="211,105,229,126,244,154,247,186,242,215,237,215,242,186,238,155,225,129,207,109"/>
+<area shape="rect" id="Node000008" href="$Player__Type__t_8h.html" title="An enumeration representing different types of players." alt="" coords="303,155,419,181"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="226,105,319,145,317,150,223,110"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,181,220,214,215,216,199,183"/>
+</map>

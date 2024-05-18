@@ -1,0 +1,140 @@
+package id5ig0alp1avod4lp1i0pxd;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#GamingPortal:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#TicTacToeBotPlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#GameBoard:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#TicTacToePlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#Player:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#TicTacToeBoard:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#Player_Type_t:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+/**
+@__ref <oiref:cpp#Class#Game:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}
+/**
+@__ref <oiref:cpp#Class#Game_t:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:cpp#Class#TicTacToeHumanPlayer:oiref><oihard>
+@__modelType reference 
+*/
+class reference10 {
+}
+/**
+@__ref <oiref:cpp#Class#TicTacToeGame:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}
+/**
+@__ref <oiref:cpp#Class#Player_t:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}
+/**
+@__ref <oiref:cpp#Class#MaxPlayers_t:oiref><oihard>
+@__modelType reference 
+*/
+class reference7 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#TicTacToePlayer:oiref>=680,410,200,110,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Player#playerNumber:oiref>=441,260,961,219:oigroup>
+<oigroup:<oiref:cpp#Class#Player:oiref>=360,260,163,174,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#TicTacToeGame#players:oiref>=755,390,26,16,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#TicTacToeGame#ticTacToeBoard:oiref>=621,180,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Class#TicTacToeBotPlayer:oiref>=890,600,137,133,1:oigroup>
+<oigroup:<oiref:cpp#Class#GameBoard:oiref>=380,60,113,107,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeGame:oiref><Autodependency><oiref:cpp#Class#Player_Type_t:oiref>=810,186,1072,300:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Player#playerType:oiref>=523,341,1030,341:oigroup>
+<oigroup:<oiref:cpp#Class#Game:oiref>=700,-120,134,110,1:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeHumanPlayer:oiref><Autodependency><oiref:cpp#Class#TicTacToeBoard:oiref>=703,600,700,333:oigroup>
+<oigroup:<oiref:cpp#Class#Player_t:oiref>=940,80,117,139,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Player#playerGame:oiref>=441,434,1139,500:oigroup>
+<oigroup:<oiref:cpp#Class#GamingPortal:oiref>=680,-310,176,110,1:oigroup>
+<oigroup:<oiref:cpp#Extends#TicTacToePlayer#Player:oiref>=680,422,523,422:oigroup>
+<oigroup:<oiref:cpp#Extends#TicTacToeBoard#GameBoard:oiref>=606,200,436,167:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#TicTacToePlayer#ticTacToeBoard:oiref>=663,333,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Game#gameName:oiref>=783,-10,1168,500:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#GamingPortal:oiref><Autodependency><oiref:cpp#Class#Game_t:oiref>=800,-200,1197,500:oigroup>
+<oigroup:<oiref:cpp#Extends#TicTacToeHumanPlayer#TicTacToePlayer:oiref>=727,600,727,520:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeBotPlayer:oiref><Autodependency><oiref:cpp#Class#Player_Type_t:oiref>=999,600,1086,423:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeBotPlayer:oiref><Autodependency><oiref:cpp#Class#Player_t:oiref>=971,600,1025,219:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#GamingPortal#currentGame:oiref>=744,-200,744,-120:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeHumanPlayer:oiref><Autodependency><oiref:cpp#Class#Game_t:oiref>=840,620,998,371,1110,521:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeHumanPlayer:oiref><Autodependency><oiref:cpp#Class#Player_t:oiref>=764,600,993,219:oigroup>
+<oigroup:<oiref:cpp#Class#Game_t:oiref>=1110,500,117,107,1:oigroup>
+<oigroup:<oiref:cpp#Class#TicTacToeBoard:oiref>=560,200,146,133,1:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#GamingPortal#currentGame:oiref>=712,-140,28,16,0:oigroup>
+<oigroup:<oiref:cpp#Class#TicTacToeGame:oiref>=660,60,200,126,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#TicTacToeGame#players:oiref>=785,186,785,410:oigroup>
+<oigroup:<oiref:cpp#Extends#TicTacToeBotPlayer#TicTacToePlayer:oiref>=917,600,803,520:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeBotPlayer:oiref><Autodependency><oiref:cpp#Class#Game_t:oiref>=1027,626,1110,586:oigroup>
+<oigroup:<oiref:cpp#Extends#TicTacToeGame#Game:oiref>=767,60,767,-10:oigroup>
+<oigroup:<oiref:cpp#Class#MaxPlayers_t:oiref>=1160,230,178,107,1:oigroup>
+<oigroup:<oiref:cpp#Class#TicTacToeHumanPlayer:oiref>=680,600,160,101,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#TicTacToePlayer#ticTacToeBoard:oiref>=695,410,695,333:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeBoard:oiref><Autodependency><oiref:cpp#Class#Player_t:oiref>=706,226,940,186:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeBotPlayer:oiref><Autodependency><oiref:cpp#Class#TicTacToeBoard:oiref>=944,600,703,333:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#TicTacToeGame#ticTacToeBoard:oiref>=760,186,653,200:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#TicTacToeHumanPlayer:oiref><Autodependency><oiref:cpp#Class#Player_Type_t:oiref>=802,600,1058,423:oigroup>
+<oigroup:<oiref:cpp#Class#Player_Type_t:oiref>=1030,300,85,123,1:oigroup> 
+*/
+class __positions {
+}

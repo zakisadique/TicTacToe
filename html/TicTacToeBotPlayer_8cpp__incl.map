@@ -1,0 +1,31 @@
+<map id="myCode/TicTacToeBotPlayer.cpp" name="myCode/TicTacToeBotPlayer.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the TicTacToeBotPlayer class." alt="" coords="396,5,611,32"/>
+<area shape="rect" id="Node000002" href="$TicTacToeBotPlayer_8h.html" title="Header file for the TicTacToeBotPlayer class." alt="" coords="223,80,371,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,35,348,77,346,72,467,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="266,304,320,331"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="502,33,430,258,414,270,390,282,335,304,333,300,388,277,411,265,425,254,497,32"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="421,379,477,405"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="506,33,506,167,506,244,502,278,493,312,467,366,462,364,488,310,497,277,501,244,501,167,501,33"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="541,80,613,107"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="518,31,555,67,552,71,515,34"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="637,80,690,107"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="533,30,624,71,622,76,530,35"/>
+<area shape="rect" id="Node000003" href="$TicTacToePlayer_8h.html" title="Header file for the TicTacToePlayer class." alt="" coords="210,155,338,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,108,285,141,280,139,290,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,182,281,256,288,289,283,290,276,256,271,182"/>
+<area shape="rect" id="Node000005" href="$TicTacToeBoard_8h.html" title="Header file for the TicTacToeBoard class." alt="" coords="290,229,416,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="290,180,330,217,326,221,286,184"/>
+<area shape="rect" id="Node000009" href="$Player_8h.html" title="Header file for the abstract Player class." alt="" coords="146,229,216,256"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="260,184,211,222,207,218,256,180"/>
+<area shape="rect" id="Node000006" href="$GameBoard_8h.html" title="Header file for the abstract GameBoard class. The GameBoard class serves as the base class for specif..." alt="" coords="344,304,445,331"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="362,255,382,289,377,292,358,258"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="406,330,432,364,428,368,402,333"/>
+<area shape="rect" id="Node000008" href="$Player__t_8h.html" title="An enumeration representing different players in a game." alt="" coords="159,379,240,405"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="361,334,249,375,247,370,359,329"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="202,254,262,293,259,298,199,259"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="146,251,96,260,44,276,25,287,12,299,8,313,15,329,41,354,74,371,110,381,144,387,143,392,109,387,72,376,38,359,11,332,3,313,8,296,22,283,42,271,94,255,145,246"/>
+<area shape="rect" id="Node000010" href="$Game__t_8h.html" title="An enumeration representing different types of games." alt="" coords="164,304,243,331"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="187,256,198,288,193,290,182,257"/>
+<area shape="rect" id="Node000011" href="$Player__Type__t_8h.html" title="An enumeration representing different types of players." alt="" coords="25,304,140,331"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="165,259,113,297,110,293,162,254"/>
+</map>
