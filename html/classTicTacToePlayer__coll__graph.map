@@ -1,9 +1,0 @@
-<map id="TicTacToePlayer" name="TicTacToePlayer">
-<area shape="rect" id="Node000001" title="TicTacToePlayer class." alt="" coords="5,172,123,199"/>
-<area shape="rect" id="Node000002" href="$classPlayer.html" title="Abstract Player class." alt="" coords="14,81,72,108"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,123,64,171,58,172,47,124"/>
-<area shape="rect" id="Node000003" href="$classTicTacToeBoard.html" title="TicTacToeBoard class." alt="" coords="96,81,211,108"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,121,79,173,75,170,128,117"/>
-<area shape="rect" id="Node000004" href="$classGameBoard.html" title="Abstract GameBoard class." alt="" coords="108,5,199,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,47,156,81,151,81,151,47"/>
-</map>

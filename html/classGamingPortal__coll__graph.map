@@ -1,5 +1,0 @@
-<map id="GamingPortal" name="GamingPortal">
-<area shape="rect" id="Node000001" title="Represents a gaming portal that contains various games." alt="" coords="5,96,106,123"/>
-<area shape="rect" id="Node000002" href="$classGame.html" title="Abstract Game class." alt="" coords="27,5,84,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,48,58,95,53,95,53,48"/>
-</map>
